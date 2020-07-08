@@ -5,7 +5,7 @@ This Repository is a project which involves recognition of Hand Gesture using Co
 This project aims to solve the problem for Deaf and Dumb People by using this technology they by just showing the gestures
 Gestures can be converted into characters which can be used to form the words.
 
-<img src="images/hand_signs.png"></img>
+<img src="images/hand_signs.png" width="100" height="100"></img>
 
 By using Computer Vision Technology I have used CNN which stands for Convolution Neural Network.
 
@@ -46,7 +46,7 @@ While building this Neural Network I have used certain hyperparameters such as b
 
 Here is the flow diagram Representing the whole process:-
 
-<img src="images/Flow_diag.jpg"></img>
+<img src="images/Flow_diag.jpg" width="100" height="100"></img>
 
 # Training Phase
 
@@ -54,9 +54,9 @@ Training Phase involves certain steps first is creation of data I have used my o
 
 Some of the training images which are generated after binary conversion are:-
 
-<img src="images/train_a.jpg"></img>
+<img src="images/train_a.jpg" width="100" height="100"></img>
 
-<img src="images/train_w.jpg"></img>
+<img src="images/train_w.jpg" width="100" height="100"></img>
 
 # Testing Phase
 
@@ -66,11 +66,10 @@ After Training the same amount of images are tested with the model on the same d
 
 I have tried to merge recognition and Recommendation system both altogether in one system through which my model can correctly predict the characters as well then giving them correct recommendation of words so for the genral workflow i have used textgenrnn for creation of Recommendation system through which I have used an inbuilt dataset to train that generator RNN network for recommending a certain 3 character word from the character once it's been identified. So, as part of it the full workflow that I have been able to create is recognition of character with 90% accuracy then recommending a word from a character to generate a word from it which can be used by deaf and dumb to use my network in order to train the set of images.
 
-<img src="images/hand_img_1.png"></img>
-<img src="images/hand_img_2.png"></img>
+<img src="images/hand_img_1.png" width="100" height="100"></img>
+<img src="images/hand_img_2.png" width="100" height="100"></img>
 
 # Result 
 
 Here is the resulting video that I have created for my system which is able to correctly identify the words and then generate the Words from the model.
-
-<iframe src="https://giphy.com/embed/els7zsKB6GTTPqOfw9" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/els7zsKB6GTTPqOfw9">via GIPHY</a></p>
+![](https://giphy.com/gifs/els7zsKB6GTTPqOfw9)
