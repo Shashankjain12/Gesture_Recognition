@@ -72,4 +72,4 @@ I have tried to merge recognition and Recommendation system both altogether in o
 # Result 
 
 Here is the resulting video that I have created for my system which is able to correctly identify the words and then generate the Words from the model.
-![](https://giphy.com/gifs/els7zsKB6GTTPqOfw9)
+![](https://media.giphy.com/media/els7zsKB6GTTPqOfw9/giphy.gif)
