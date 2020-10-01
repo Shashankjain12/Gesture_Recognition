@@ -7,7 +7,7 @@ Gestures can be converted into characters which can be used to form the words.
 
 <img src="images/hand_signs.png" width="500" height="300"></img>
 
-By using Computer Vision Technology I have used CNN which stands for Convolution Neural Network.
+By using Computer Vision Technology I have used CNN which stands for Convolution Neural Network for recognizing and recommending appropriate words from the human hands gesture.
 
 ## Convolution Neural Network
 
