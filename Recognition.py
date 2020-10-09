@@ -85,7 +85,7 @@ def word_gen(var_list):
 
 #UI Creation
 if __name__=="__main__":
-    # OpenCv for Video Capturing
+    # OpenCv for Video Capturing for passing control over detect method to run the commands which are needed
     cap=cv2.VideoCapture(-1)
     cap.set(10,200)
     cv2.namedWindow('trackbar')
