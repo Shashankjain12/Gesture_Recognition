@@ -1,6 +1,6 @@
 # Hand Gesture Recognition And Recommendation System 
 
-This Repository is a project which involves recognition of Hand Gesture using Computer Vision.
+This Repository is a project which involves recognition of Hand Gesture using Computer Vision and thereby recommend certain words with respect to the characters it recogizes.
 
 This project aims to solve the problem for Deaf and Dumb People by using this technology they by just showing the gestures
 Gestures can be converted into characters which can be used to form the words.
