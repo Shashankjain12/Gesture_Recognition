@@ -4,5 +4,5 @@ matplotlib==3.3.2
 numpy==1.18.2
 opencv-contrib-python==4.2.0.34
 pandas==1.1.2
-tensorflow==2.5.0
+tensorflow==2.7.2
 textgenrnn==1.5.0
